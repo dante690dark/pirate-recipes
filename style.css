@@ -1,8 +1,3 @@
-* {
-  text-decoration: none;
-  list-style-type: none;
-}
-
 body {
   background-image: url("./assets/map.jpeg");
 }
@@ -29,4 +24,14 @@ body {
 .list-foods {
   display: flex;
   justify-content: center;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.list-foods ul {
+  list-style-type: none;
 }
