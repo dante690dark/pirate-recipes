@@ -1,0 +1,22 @@
+* {
+  text-decoration: none;
+  list-style-type: none;
+  background-image: url("./assets/map.jpeg");
+}
+
+.main-cover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-foods {
+  display: flex;
+  justify-content: center;
+  background-color: yellow;
+}
+
+.main-cover img {
+  height: auto;
+  width: 40%;
+}
