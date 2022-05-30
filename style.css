@@ -1,22 +1,32 @@
 * {
   text-decoration: none;
   list-style-type: none;
+}
+
+body {
   background-image: url("./assets/map.jpeg");
 }
 
-.main-cover {
+.page-header {
+  text-align: center;
+  font-size: 50px;
+  color: #0e191a;
+  text-shadow: 2px 2px #000;
+}
+
+.main-cover,
+.plates {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.list-foods {
-  display: flex;
-  justify-content: center;
-  background-color: yellow;
-}
-
 .main-cover img {
   height: auto;
   width: 40%;
+}
+
+.list-foods {
+  display: flex;
+  justify-content: center;
 }
