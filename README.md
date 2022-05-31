@@ -1,2 +1,2 @@
-# odin-recipes
+# pirate-recipes
 first project 
